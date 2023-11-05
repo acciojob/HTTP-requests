@@ -1,5 +1,5 @@
 {
-  "name": "File-Handling-in-Node.js",
+  "name": "HTTP-requests",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/acciojob/File-Handling-in-Node.js.git"
+    "url": "git+https://github.com/acciojob/HTTP-requests.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/acciojob/File-Handling-in-Node.js/issues"
+    "url": "https://github.com/acciojob/HTTP-requests/issues"
   },
-  "homepage": "https://github.com/acciojob/File-Handling-in-Node.js#readme",
+  "homepage": "https://github.com/acciojob/HTTP-requests#readme",
   "devDependencies": {
     "jest": "^29.5.0"
   },
